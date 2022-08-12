@@ -1,0 +1,59 @@
+body{
+    margin:30px 200px;
+}
+
+.make-blue{
+    color: #00d0ff;
+}
+
+.container-flex{
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    margin-top:30px;
+}
+
+.sub-form{
+    width: 500px;
+    margin-bottom: 0px;
+}
+
+.form-row{
+    margin: 40px  0px;
+}
+
+.form-header{
+    text-align: center;
+}
+
+.project-detail{
+    width: 650px;
+}
+
+.make-purple{
+    color: mediumpurple;
+}
+
+.links-tab{
+    width: 200px;
+}
+
+.home-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title-input{
+    font-size: 2em;
+}
+
+.sub-content{
+    width: 600px;
+}
+
+/*
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}*/
